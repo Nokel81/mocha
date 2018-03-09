@@ -315,7 +315,8 @@
     "growl": "1.10.3",
     "he": "1.1.1",
     "mkdirp": "0.5.1",
-    "supports-color": "4.4.0"
+    "supports-color": "4.4.0",
+    "yeast": "^0.1.2"
   },
   "devDependencies": {
     "assert": "^1.4.1",
